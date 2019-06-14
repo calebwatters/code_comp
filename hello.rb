@@ -6,14 +6,4 @@ lines.each do |line|
    target =  word.map  do |w| 
        puts  w.split('').reverse.join('')
     end
-
-    
-
-
-
-
-
-
-
-    
 end
